@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e05800c.chunk.css",
+    "main.js": "/static/js/main.35e7242b.chunk.js",
+    "main.js.map": "/static/js/main.35e7242b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.777aeb9f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.777aeb9f.js.map",
+    "static/js/2.f1a9390e.chunk.js": "/static/js/2.f1a9390e.chunk.js",
+    "static/js/2.f1a9390e.chunk.js.map": "/static/js/2.f1a9390e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8a78222d4c344f6bdc47e4d0a0d67834.js": "/precache-manifest.8a78222d4c344f6bdc47e4d0a0d67834.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4e05800c.chunk.css.map": "/static/css/main.4e05800c.chunk.css.map",
+    "static/media/historia.png": "/static/media/historia.c2107bbd.png",
+    "static/media/nosotros.png": "/static/media/nosotros.990c5dd7.png",
+    "static/media/organigrama.jpg": "/static/media/organigrama.39e49056.jpg"
+  }
+}
